@@ -1,4 +1,5 @@
 # vim-config
+![Vim-logo](https://icons-for-free.com/iconfiles/png/128/vim+original-1324760574599503855.png)
 The **ide vim** configuration file for **beginners**. This configuration file allows you to minimally configure vim for **basic** development. There is a minimum of flexible customization in the config file.
 ___
 - You need to install the Vundle package manager and coc-nvim:
